@@ -58,12 +58,6 @@ The dataset includes:
 - Resale values  
 - Year of sale  
 
-*(Sample dataset used for demonstration and learning purposes.)*
-
----
 
 ### Outcome
 The dashboard provides a **clear visual story** of car sales performance and profitability, helping stakeholders make data-driven business decisions.
-
-### Preview
-(Add a screenshot of your dashboard here, e.g.)
